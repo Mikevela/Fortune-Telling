@@ -3,6 +3,8 @@
 This Java application has over 100 different statements and quotes that are divided into 5 unique categories to choose from. I hope you find this to be enjoying and satisfying as I did when it was complete.
 
 
+
+
 # For the User
 
 1. Fork and clone the repository onto your command line prompt.
@@ -20,9 +22,11 @@ This Java application has over 100 different statements and quotes that are divi
 
 5. You have now made your way to the Fortune Teller where you can now take a fortune with you to embark on!
 
+
+
 # References
 
-Below are some of the resources I used to aid me while constructing the project:
+Below are some of the resources I used while creating the project:
 - https://www.youtube.com/watch?v=dDMqIhX8pBM
 - https://www.youtube.com/watch?v=VGq6i1CDpdc
 - https://www.youtube.com/watch?v=omd6jSnEK1Q
