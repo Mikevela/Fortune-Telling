@@ -24,6 +24,8 @@ This Java application has over 100 different statements and quotes that are divi
 6. If you'd like to get another fortune or choose another mood, follow the instructions of:
    - 3.e
    - 3.f
+  
+
    *In this order*
 
 
