@@ -1,6 +1,6 @@
 # Fortune-Telling
 
-This Java application has over 100 different statements and quotes that are divided into 5 unique categories to choose from. I hope you find this to be enjoying and satisfying as I did when it was complete.
+This Java application has over 100 different statements and quotes that are divided into 5 unique categories to choose from. I hope you find this to be useful on your great and low days.
 
 
 
